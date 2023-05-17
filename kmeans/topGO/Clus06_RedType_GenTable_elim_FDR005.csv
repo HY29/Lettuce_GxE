@@ -1,0 +1,13 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0010200","response to chitin",195,37,6.96,"4.3e-17",1.44523e-13
+"GO:0006468","protein phosphorylation",1249,90,44.58,"1.9e-09",3.19295e-06
+"GO:0009611","response to wounding",419,40,14.96,"1.5e-08",1.6805e-05
+"GO:0051704","multi-organism process",1975,114,70.5,"7.4e-08",6.21785e-05
+"GO:0009864","induced systemic resistance, jasmonic ac...",27,7,0.96,"3.4e-05",0.01596475
+"GO:0031347","regulation of defense response",366,38,13.06,"3.6e-05",0.01596475
+"GO:0009268","response to pH",12,5,0.43,"3.7e-05",0.01596475
+"GO:0042742","defense response to bacterium",525,43,18.74,"3.8e-05",0.01596475
+"GO:0010105","negative regulation of ethylene-activate...",63,10,2.25,"7.2e-05",0.026888
+"GO:0051865","protein autoubiquitination",52,9,1.86,"8.2e-05",0.0275602
+"GO:0009693","ethylene biosynthetic process",32,7,1.14,"0.00011",0.03361
+"GO:0009414","response to water deprivation",505,38,18.03,"0.00012",0.03361

@@ -1,0 +1,7 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0007018","microtubule-based movement",108,23,5.56,"4.8e-09",1.61328e-05
+"GO:0043622","cortical microtubule organization",45,13,2.32,"2.5e-07",0.000420125
+"GO:0009834","plant-type secondary cell wall biogenesi...",77,16,3.96,"1.5e-06",0.0016805
+"GO:0007052","mitotic spindle organization",49,12,2.52,"5.0e-06",0.00420125
+"GO:1902600","proton transmembrane transport",143,20,7.36,"4.4e-05",0.0295768
+"GO:0009833","plant-type primary cell wall biogenesis",22,7,1.13,"8.1e-05",0.0453735
