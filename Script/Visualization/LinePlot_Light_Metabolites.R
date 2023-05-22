@@ -4,6 +4,7 @@
 
 #library
 library(tidyverse)
+library(plotly)
 
 #data
 d <- read.csv("Pheno/Light_Metabolites.csv",header=TRUE, check.names=FALSE)
@@ -20,7 +21,7 @@ d.long$Cultivar<- factor(d.long$Cultivar, levels=c("RButt","RLeaf","ROak","RCos"
 
 
 #ggplot2 
-ggplot(d.long, aes(y=mean, x=Light, color=Color, fill=Color, shape=Cultivar, group=Cultivar))+
+p <- ggplot(d.long, aes(y=mean, x=Light, color=Color, fill=Color, shape=Cultivar, group=Cultivar))+
   guides(color=FALSE, fill=FALSE, shape=FALSE)+
   geom_line(size=0.5)+
   geom_point(size=1.5)+
