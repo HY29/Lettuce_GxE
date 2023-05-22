@@ -1,4 +1,4 @@
-##Fig.S12a,b
+##Fig.S13a,b
 
 #Line graph & Boxplot by ggplot2
 
@@ -88,7 +88,7 @@ ggplotly(p1)
 #plot
 print(p1)
 
-ggsave("Fig/FigS12a_LinePlot_GeneExp_LightSignal_Light.pdf", width=8, height=6)
+ggsave("Fig/FigS13a_LinePlot_GeneExp_LightSignal_Light.pdf", width=8, height=6)
 
 #"red" filter
 LightSig.Exp.long.Meta <- LightSig.Exp.long.Meta %>% 
@@ -117,7 +117,7 @@ p2 <- ggplot(LightSig.Exp.long.Meta, aes(x=Light,y=RelExp, fill=Genotype))+
 #plot
 print(p2)
 
-ggsave("Fig/FigS12b_BoxPlot_GeneExp_LightSig_Light.pdf", width=8, height=6)
+ggsave("Fig/FigS13b_BoxPlot_GeneExp_LightSig_Light.pdf", width=8, height=6)
 
 
 

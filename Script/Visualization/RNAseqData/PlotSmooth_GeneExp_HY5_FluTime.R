@@ -1,4 +1,4 @@
-##Fig.S10e
+##Fig.S11e
 
 #Line graph by ggplot2
 
@@ -80,7 +80,7 @@ p <- ggplot(HY5.Exp.long.Meta, aes(x=Time,y=RelExp, color=Cultivar, fill=Cultiva
 #plot
 print(p)
 
-ggsave("Fig/FigS10e_PlotSmooth_GeneExp_HY5_FluTimeSeries.pdf", width=3.2, height=2.3)
+ggsave("Fig/FigS11e_PlotSmooth_GeneExp_HY5_FluTimeSeries.pdf", width=3.2, height=2.3)
 
 
 

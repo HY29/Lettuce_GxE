@@ -1,4 +1,4 @@
-##Fig.S9b
+##Fig.S10b
 
 #Boxplot by ggplot2
 
@@ -92,4 +92,4 @@ p <- ggplot(Pathway.Exp, aes(x=Light,y=RelExp, color=Genotype, fill=Genotype))+
 #plot
 print(p)
 
-ggsave("Fig/FigS9b_BoxPlot_GeneExp_FlavonoidPathway_UVB.pdf", width=11, height=7)
+ggsave("Fig/FigS10b_BoxPlot_GeneExp_FlavonoidPathway_UVB.pdf", width=11, height=7)

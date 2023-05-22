@@ -1,4 +1,4 @@
-##Fig.S12e
+##Fig.S13e
 
 #Plot Smooth by ggplot2
 
@@ -68,7 +68,7 @@ p1 <- ggplot(LightSig.Exp.long.Meta, aes(x=Time,y=RelExp, color=Cultivar, fill=C
 #plot 
 print(p1)
 
-ggsave("Fig/FigS12e_PlotSmooth_GeneExp_LightSig_FluTimeSeries.pdf", width=10.5, height=5)
+ggsave("Fig/FigS13e_PlotSmooth_GeneExp_LightSig_FluTimeSeries.pdf", width=10.5, height=5)
 
 
 

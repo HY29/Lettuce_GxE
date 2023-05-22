@@ -1,4 +1,4 @@
-##Fig.S11e
+##Fig.S12e
 
 #Load library
 library(tidyverse)
@@ -69,7 +69,7 @@ p <- ggplot(MBW.Exp.long.Meta, aes(x=Time,y=RelExp, color=Cultivar, fill=Cultiva
 #plot
 print(p)
 
-ggsave("Fig/FigS11e_PlotSmooth_GeneExp_MBW_FluTimeSeries.pdf", width=9, height=3.4)
+ggsave("Fig/FigS12e_PlotSmooth_GeneExp_MBW_FluTimeSeries.pdf", width=9, height=3.4)
 
 
 

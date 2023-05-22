@@ -1,4 +1,4 @@
-##Fig.S12c,d
+##Fig.S13c,d
 
 #Line graph & Boxplot by ggplot2
 
@@ -88,7 +88,7 @@ ggplotly(p1)
 #plot
 print(p1)
 
-ggsave("Fig/FigS12c_LinePlot_GeneExp_LightSignal_UVB.pdf", width=10.5, height=5)
+ggsave("Fig/FigS13c_LinePlot_GeneExp_LightSignal_UVB.pdf", width=10.5, height=5)
 
 
 ##ggplot2
@@ -114,7 +114,7 @@ p2 <- ggplot(LightSig.Exp.long.Meta, aes(x=Light,y=RelExp, fill=Genotype))+
 #plot
 print(p2)
 
-ggsave("Fig/FigS12d_BoxPlot_GeneExp_LightSig_UVB.pdf", width=10.5, height=5)
+ggsave("Fig/FigS13d_BoxPlot_GeneExp_LightSig_UVB.pdf", width=10.5, height=5)
 
 
 

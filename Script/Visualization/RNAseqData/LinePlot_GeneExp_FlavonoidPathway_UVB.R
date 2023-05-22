@@ -1,4 +1,4 @@
-##Fig.S9a
+##Fig.S10a
 
 #Line graph by ggplot2
 
@@ -78,6 +78,7 @@ Pathway.Exp <- rbind(Phenyl.Exp.long.Meta.Mean, Flavo.Exp.long.Meta.Mean)
 #ggplot2
 #Flavonoid pathway
 p <- ggplot(Pathway.Exp, aes(x=Light,y=Mean, color=Color, fill=Color, shape=Cultivar, group=Cultivar))+
+  guides(color=FALSE, fill=FALSE, shape=FALSE)+
   geom_line(size=0.5, alpha=0.8)+
   geom_point(size=2, alpha=0.8)+
   geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD), position=position_dodge(0),size=0.5, width=1, alpha=0.8)+
@@ -98,4 +99,4 @@ ggplotly(p)
 #plot
 print(p)
 
-ggsave("Fig/FigS9a_LinePlot_GeneExp_FlavonoidPathway_UVB.pdf", width=11, height=8)
+ggsave("Fig/FigS10a_LinePlot_GeneExp_FlavonoidPathway_UVB.pdf", width=11, height=8)

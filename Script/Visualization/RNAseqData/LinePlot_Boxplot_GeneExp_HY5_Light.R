@@ -1,4 +1,4 @@
-##Fig.S10a,b
+##Fig.S11a,b
 
 #Line graph & Boxplot by ggplot2
 
@@ -89,7 +89,7 @@ ggplotly(p1)
 #plot
 print(p1)
 
-ggsave("Fig/FigS10a_LinePlot_GeneExp_HY5_Light.pdf", width=3.2, height=2)
+ggsave("Fig/FigS11a_LinePlot_GeneExp_HY5_Light.pdf", width=3.2, height=2)
 
 ##ggplot2
 #boxplot
@@ -114,5 +114,5 @@ p2 <- ggplot(HY5.Exp.long.Meta, aes(x=Light,y=RelExp, fill=Genotype))+
 #plot
 print(p2)
 
-ggsave("Fig/FigS10b_BoxPlot_GeneExp_HY5_Light.pdf", width=3.2, height=2)
+ggsave("Fig/FigS11b_BoxPlot_GeneExp_HY5_Light.pdf", width=3.2, height=2)
 

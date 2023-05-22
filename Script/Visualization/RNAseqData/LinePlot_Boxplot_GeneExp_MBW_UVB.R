@@ -1,4 +1,4 @@
-##Fig.S11c,d
+##Fig.S12c,d
 
 #Line graph & Boxplot by ggplot2
 
@@ -85,7 +85,7 @@ ggplotly(p1)
 #plot
 print(p1)
 
-ggsave("Fig/FigS11c_LinePlot_GeneExp_MBW_UVB.pdf", width=8.2, height=3.2)
+ggsave("Fig/FigS12c_LinePlot_GeneExp_MBW_UVB.pdf", width=8.2, height=3.2)
 
 #"red" filter
 MBW.Exp.long.Meta <- MBW.Exp.long.Meta %>% 
@@ -114,7 +114,7 @@ p2 <- ggplot(MBW.Exp.long.Meta, aes(x=Light,y=RelExp, fill=Genotype))+
 #plot
 print(p2)
 
-ggsave("Fig/FigS11d_BoxPlot_GeneExp_MBW_UVB.pdf", width=8.2, height=3.2)
+ggsave("Fig/FigS12d_BoxPlot_GeneExp_MBW_UVB.pdf", width=8.2, height=3.2)
 
 
 
