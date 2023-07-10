@@ -1,0 +1,19 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0007154","cell communication",2340,125,81.6,"2.9e-07",0.00097237
+"GO:0006468","protein phosphorylation",1249,76,43.55,"1.0e-06",0.0016765
+"GO:0016310","phosphorylation",1541,87,53.74,"3.5e-06",0.00391183333333333
+"GO:0023052","signaling",2093,108,72.98,"1.2e-05",0.0080472
+"GO:0007165","signal transduction",2046,106,71.35,"1.2e-05",0.0080472
+"GO:0043562","cellular response to nitrogen levels",26,7,0.91,"2.2e-05",0.0122943333333333
+"GO:0006796","phosphate-containing compound metabolic ...",2143,108,74.73,"3.4e-05",0.016286
+"GO:0006995","cellular response to nitrogen starvation",20,6,0.7,"4.5e-05",0.016765
+"GO:0006793","phosphorus metabolic process",2183,109,76.12,"4.5e-05",0.016765
+"GO:1901565","organonitrogen compound catabolic proces...",845,51,29.47,"9.0e-05",0.030177
+"GO:0098660","inorganic ion transmembrane transport",511,35,17.82,"0.00011",0.03353
+"GO:0009605","response to external stimulus",2031,100,70.82,"0.00017",0.0453641176470588
+"GO:0006970","response to osmotic stress",827,49,28.84,"0.00019",0.0453641176470588
+"GO:0006464","cellular protein modification process",2572,121,89.69,"0.00021",0.0453641176470588
+"GO:0036211","protein modification process",2572,121,89.69,"0.00021",0.0453641176470588
+"GO:0009624","response to nematode",133,14,4.64,"0.00022",0.0453641176470588
+"GO:0098655","cation transmembrane transport",489,33,17.05,"0.00023",0.0453641176470588
+"GO:0051716","cellular response to stimulus",3465,155,120.83,"0.00025",0.0465694444444444

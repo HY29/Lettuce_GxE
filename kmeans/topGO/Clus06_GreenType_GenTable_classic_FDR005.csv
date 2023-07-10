@@ -1,0 +1,16 @@
+GO.ID,Term,Annotated,Significant,Expected,Pvalue,Adj.Pvalue
+GO:0009100,glycoprotein metabolic process,149,25,7.16,4.20E-08,0.000140826
+GO:1901137,carbohydrate derivative biosynthetic process,465,48,22.34,4.70E-07,0.0007185
+GO:0009101,glycoprotein biosynthetic process,132,21,6.34,1.20E-06,0.0007185
+GO:0006486,protein glycosylation,111,19,5.33,1.30E-06,0.0007185
+GO:0043413,macromolecule glycosylation,111,19,5.33,1.30E-06,0.0007185
+GO:1901135,carbohydrate derivative metabolic proces...,752,66,36.13,1.40E-06,0.0007185
+GO:0006869,lipid transport,112,19,5.38,1.50E-06,0.0007185
+GO:0070085,glycosylation,138,21,6.63,2.60E-06,0.001089725
+GO:0010876,lipid localization,139,20,6.68,1.10E-05,0.0036883
+GO:0006487,protein N-linked glycosylation,56,12,2.69,1.10E-05,0.0036883
+GO:0010143,cutin biosynthetic process,58,12,2.79,1.60E-05,0.004470667
+GO:0005996,monosaccharide metabolic process,98,16,4.71,1.60E-05,0.004470667
+GO:0006491,N-glycan processing,11,5,0.53,9.20E-05,0.023728923
+GO:0006810,transport,2725,170,130.94,0.0001,0.02395
+GO:0006457,protein folding,154,19,7.4,0.00015,0.03353

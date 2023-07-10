@@ -1,0 +1,55 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0007017","microtubule-based process",251,36,9.41,"3.8e-12",1.27414e-08
+"GO:0000226","microtubule cytoskeleton organization",172,25,6.45,"5.9e-09",9.89135e-06
+"GO:0031122","cytoplasmic microtubule organization",62,14,2.32,"5.1e-08",5.7001e-05
+"GO:0007018","microtubule-based movement",108,18,4.05,"9.8e-08",8.21485e-05
+"GO:0007010","cytoskeleton organization",421,39,15.78,"1.8e-07",0.000120708
+"GO:0010087","phloem or xylem histogenesis",123,18,4.61,"7.3e-07",0.000407948333333333
+"GO:0097435","supramolecular fiber organization",251,27,9.41,"8.6e-07",0.00041194
+"GO:0030865","cortical cytoskeleton organization",68,13,2.55,"1.2e-06",0.00050295
+"GO:0071554","cell wall organization or biogenesis",509,42,19.08,"1.4e-06",0.000521577777777778
+"GO:0042546","cell wall biogenesis",238,25,8.92,"3.3e-06",0.000950016666666667
+"GO:0010065","primary meristem tissue development",19,7,0.71,"3.4e-06",0.000950016666666667
+"GO:0070507","regulation of microtubule cytoskeleton o...",19,7,0.71,"3.4e-06",0.000950016666666667
+"GO:0016051","carbohydrate biosynthetic process",271,27,10.16,"3.8e-06",0.000980107692307692
+"GO:0032886","regulation of microtubule-based process",27,8,1.01,"4.4e-06",0.0010538
+"GO:0043622","cortical microtubule organization",45,10,1.69,"4.9e-06",0.00106876875
+"GO:0009834","plant-type secondary cell wall biogenesi...",77,13,2.89,"5.1e-06",0.00106876875
+"GO:0010067","procambium histogenesis",14,6,0.52,"6.3e-06",0.00124258235294118
+"GO:0009832","plant-type cell wall biogenesis",190,21,7.12,"9.2e-06",0.00171375555555556
+"GO:0009833","plant-type primary cell wall biogenesis",22,7,0.82,"1.0e-05",0.00176473684210526
+"GO:0034637","cellular carbohydrate biosynthetic proce...",193,21,7.23,"1.2e-05",0.0020118
+"GO:0010413","glucuronoxylan metabolic process",16,6,0.6,"1.6e-05",0.00233252173913043
+"GO:0010417","glucuronoxylan biosynthetic process",16,6,0.6,"1.6e-05",0.00233252173913043
+"GO:0006928","movement of cell or subcellular componen...",228,23,8.55,"1.6e-05",0.00233252173913043
+"GO:0048507","meristem development",399,33,14.95,"1.8e-05",0.00251475
+"GO:0051493","regulation of cytoskeleton organization",143,17,5.36,"2.5e-05",0.003353
+"GO:0044262","cellular carbohydrate metabolic process",425,34,15.93,"2.7e-05",0.00348196153846154
+"GO:0033692","cellular polysaccharide biosynthetic pro...",161,18,6.03,"3.4e-05",0.0042222962962963
+"GO:0000271","polysaccharide biosynthetic process",181,19,6.78,"5.0e-05",0.0059875
+"GO:0071669","plant-type cell wall organization or bio...",334,28,12.52,"6.1e-05",0.00681776666666667
+"GO:0044264","cellular polysaccharide metabolic proces...",265,24,9.93,"6.1e-05",0.00681776666666667
+"GO:0030244","cellulose biosynthetic process",38,8,1.42,"6.7e-05",0.0072468064516129
+"GO:0051273","beta-glucan metabolic process",61,10,2.29,"8.1e-05",0.00848728125
+"GO:1902850","microtubule cytoskeleton organization in...",51,9,1.91,"0.00010",0.0101606060606061
+"GO:0010089","xylem development",52,9,1.95,"0.00012",0.0111766666666667
+"GO:0030243","cellulose metabolic process",52,9,1.95,"0.00012",0.0111766666666667
+"GO:0005976","polysaccharide metabolic process",312,26,11.69,"0.00012",0.0111766666666667
+"GO:0005975","carbohydrate metabolic process",599,41,22.45,"0.00015",0.0135932432432432
+"GO:0009653","anatomical structure morphogenesis",1482,82,55.54,"0.00019",0.016765
+"GO:0010383","cell wall polysaccharide metabolic proce...",123,14,4.61,"0.00021",0.0179917073170732
+"GO:1903047","mitotic cell cycle process",360,28,13.49,"0.00022",0.0179917073170732
+"GO:0044036","cell wall macromolecule metabolic proces...",139,15,5.21,"0.00022",0.0179917073170732
+"GO:0051274","beta-glucan biosynthetic process",45,8,1.69,"0.00023",0.0183616666666667
+"GO:0051781","positive regulation of cell division",25,6,0.94,"0.00026",0.0202739534883721
+"GO:0000278","mitotic cell cycle",441,32,16.53,"0.00028",0.0213372727272727
+"GO:0061640","cytoskeleton-dependent cytokinesis",176,17,6.6,"0.00034",0.0247830434782609
+"GO:0015843","methylammonium transport",10,4,0.37,"0.00034",0.0247830434782609
+"GO:0051301","cell division",448,32,16.79,"0.00037",0.0263959574468085
+"GO:0007052","mitotic spindle organization",49,8,1.84,"0.00043",0.0300372916666667
+"GO:1902903","regulation of supramolecular fiber organ...",118,13,4.42,"0.00047",0.0321614285714286
+"GO:0048508","embryonic meristem development",50,8,1.87,"0.00049",0.0328594
+"GO:0000281","mitotic cytokinesis",166,16,6.22,"0.00051",0.03353
+"GO:0032989","cellular component morphogenesis",596,39,22.34,"0.00052",0.03353
+"GO:0010268","brassinosteroid homeostasis",30,6,1.12,"0.00074",0.0468154716981132
+"GO:0015837","amine transport",12,4,0.45,"0.00076",0.0471903703703704

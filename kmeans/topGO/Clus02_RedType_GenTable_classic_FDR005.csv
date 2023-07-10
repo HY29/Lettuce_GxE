@@ -1,0 +1,157 @@
+GO.ID,Term,Annotated,Significant,Expected,Pvalue,Adj.Pvalue
+GO:0015979,photosynthesis,197,56,9.57,4.20E-28,1.41E-24
+GO:0009658,chloroplast organization,184,50,8.94,3.20E-24,5.36E-21
+GO:0006091,generation of precursor metabolites and energy,365,69,17.74,6.00E-23,6.70E-20
+GO:0019684,"photosynthesis, light reaction",138,41,6.71,1.10E-21,9.22E-19
+GO:0044281,small molecule metabolic process,1776,160,86.31,1.50E-15,1.01E-12
+GO:0005982,starch metabolic process,79,24,3.84,1.90E-13,1.06E-10
+GO:0055114,oxidation-reduction process,1348,123,65.51,2.60E-12,1.25E-09
+GO:0009765,"photosynthesis, light harvesting",42,16,2.04,4.20E-11,1.76E-08
+GO:1901566,organonitrogen compound biosynthetic pro...,1394,121,67.75,1.10E-10,4.10E-08
+GO:0010027,thylakoid membrane organization,45,16,2.19,1.40E-10,4.69E-08
+GO:0019752,carboxylic acid metabolic process,1128,103,54.82,2.10E-10,6.40E-08
+GO:0010109,regulation of photosynthesis,63,18,3.06,6.10E-10,1.70E-07
+GO:0006520,cellular amino acid metabolic process,365,47,17.74,9.00E-10,2.32E-07
+GO:0009668,plastid membrane organization,51,16,2.48,1.20E-09,2.61E-07
+GO:0016108,tetraterpenoid metabolic process,27,12,1.31,1.40E-09,2.61E-07
+GO:0016116,carotenoid metabolic process,27,12,1.31,1.40E-09,2.61E-07
+GO:0098869,cellular oxidant detoxification,175,30,8.5,1.40E-09,2.61E-07
+GO:0000373,Group II intron splicing,22,11,1.07,1.40E-09,2.61E-07
+GO:1990748,cellular detoxification,176,30,8.55,1.60E-09,2.82E-07
+GO:0017144,drug metabolic process,467,53,22.7,7.10E-09,1.13E-06
+GO:0006082,organic acid metabolic process,1251,106,60.8,7.40E-09,1.13E-06
+GO:0043436,oxoacid metabolic process,1251,106,60.8,7.40E-09,1.13E-06
+GO:0006778,porphyrin-containing compound metabolic ...,128,24,6.22,1.00E-08,1.40E-06
+GO:0033013,tetrapyrrole metabolic process,128,24,6.22,1.00E-08,1.40E-06
+GO:0097237,cellular response to toxic substance,201,31,9.77,1.10E-08,1.42E-06
+GO:0009735,response to cytokinin,306,40,14.87,1.10E-08,1.42E-06
+GO:0005983,starch catabolic process,32,12,1.56,1.50E-08,1.73E-06
+GO:0016109,tetraterpenoid biosynthetic process,21,10,1.02,1.50E-08,1.73E-06
+GO:0016117,carotenoid biosynthetic process,21,10,1.02,1.50E-08,1.73E-06
+GO:0045454,cell redox homeostasis,60,16,2.92,1.70E-08,1.90E-06
+GO:0044283,small molecule biosynthetic process,838,78,40.73,1.90E-08,2.05E-06
+GO:0006073,cellular glucan metabolic process,181,28,8.8,5.10E-08,5.34E-06
+GO:0009072,aromatic amino acid family metabolic pro...,73,17,3.55,5.30E-08,5.38E-06
+GO:0098754,detoxification,228,32,11.08,6.10E-08,6.01E-06
+GO:1901605,alpha-amino acid metabolic process,255,34,12.39,8.50E-08,8.14E-06
+GO:0044042,glucan metabolic process,186,28,9.04,9.20E-08,8.57E-06
+GO:0034599,cellular response to oxidative stress,178,27,8.65,1.30E-07,1.18E-05
+GO:0009768,"photosynthesis, light harvesting in phot...",26,10,1.26,1.80E-07,1.59E-05
+GO:0009767,photosynthetic electron transport chain,63,15,3.06,2.40E-07,2.06E-05
+GO:0005975,carbohydrate metabolic process,599,58,29.11,3.90E-07,3.12E-05
+GO:0009073,aromatic amino acid family biosynthetic ...,49,13,2.38,3.90E-07,3.12E-05
+GO:0022900,electron transport chain,112,20,5.44,4.00E-07,3.12E-05
+GO:0032544,plastid translation,12,7,0.58,4.00E-07,3.12E-05
+GO:0006006,glucose metabolic process,28,10,1.36,4.10E-07,3.12E-05
+GO:0042440,pigment metabolic process,200,28,9.72,4.30E-07,3.20E-05
+GO:0010020,chloroplast fission,17,8,0.83,4.90E-07,3.42E-05
+GO:0043572,plastid fission,17,8,0.83,4.90E-07,3.42E-05
+GO:0006081,cellular aldehyde metabolic process,58,14,2.82,5.00E-07,3.42E-05
+GO:0009251,glucan catabolic process,50,13,2.43,5.10E-07,3.42E-05
+GO:0044247,cellular polysaccharide catabolic proces...,50,13,2.43,5.10E-07,3.42E-05
+GO:0072524,pyridine-containing compound metabolic p...,96,18,4.67,7.10E-07,4.67E-05
+GO:0000105,histidine biosynthetic process,13,7,0.63,8.30E-07,5.15E-05
+GO:0006547,histidine metabolic process,13,7,0.63,8.30E-07,5.15E-05
+GO:0052803,imidazole-containing compound metabolic ...,13,7,0.63,8.30E-07,5.15E-05
+GO:1901661,quinone metabolic process,24,9,1.17,9.70E-07,5.66E-05
+GO:1901663,quinone biosynthetic process,24,9,1.17,9.70E-07,5.66E-05
+GO:0043094,cellular metabolic compound salvage,98,18,4.76,9.80E-07,5.66E-05
+GO:0072593,reactive oxygen species metabolic proces...,173,25,8.41,9.80E-07,5.66E-05
+GO:0042181,ketone biosynthetic process,31,10,1.51,1.20E-06,6.82E-05
+GO:0019318,hexose metabolic process,63,14,3.06,1.50E-06,8.24E-05
+GO:0072525,pyridine-containing compound biosyntheti...,72,15,3.5,1.50E-06,8.24E-05
+GO:0016052,carbohydrate catabolic process,166,24,8.07,1.60E-06,8.65E-05
+GO:0044275,cellular carbohydrate catabolic process,68,14,3.3,3.90E-06,0.000207505
+GO:0062197,cellular response to chemical stress,237,29,11.52,4.40E-06,0.00023045
+GO:0030091,protein repair,16,7,0.78,4.80E-06,0.000247532
+GO:0008152,metabolic process,10388,555,504.85,7.20E-06,0.000365673
+GO:0048564,photosystem I assembly,12,6,0.58,9.30E-06,0.000465278
+GO:0009110,vitamin biosynthetic process,83,15,4.03,9.60E-06,0.000473224
+GO:0046148,pigment biosynthetic process,160,22,7.78,9.90E-06,0.000480939
+GO:0033014,tetrapyrrole biosynthetic process,106,17,5.15,1.30E-05,0.000622514
+GO:0042743,hydrogen peroxide metabolic process,66,13,3.21,1.40E-05,0.000642849
+GO:0043038,amino acid activation,66,13,3.21,1.40E-05,0.000642849
+GO:0043039,tRNA aminoacylation,66,13,3.21,1.40E-05,0.000642849
+GO:0016122,xanthophyll metabolic process,13,6,0.63,1.70E-05,0.000770054
+GO:0005996,monosaccharide metabolic process,98,16,4.76,1.90E-05,0.000849173
+GO:0046496,nicotinamide nucleotide metabolic proces...,88,15,4.28,2.00E-05,0.000882105
+GO:0044262,cellular carbohydrate metabolic process,425,41,20.65,2.20E-05,0.000957714
+GO:0019362,pyridine nucleotide metabolic process,89,15,4.33,2.30E-05,0.00098841
+GO:0042744,hydrogen peroxide catabolic process,42,10,2.04,2.50E-05,0.0010475
+GO:0019252,starch biosynthetic process,34,9,1.65,2.50E-05,0.0010475
+GO:1901607,alpha-amino acid biosynthetic process,149,20,7.24,3.50E-05,0.001448395
+GO:0006779,porphyrin-containing compound biosynthet...,104,16,5.05,4.00E-05,0.001635122
+GO:0006094,gluconeogenesis,15,6,0.73,4.40E-05,0.00175581
+GO:0010206,photosystem II repair,15,6,0.73,4.40E-05,0.00175581
+GO:0015994,chlorophyll metabolic process,105,16,5.1,4.50E-05,0.001774588
+GO:0017001,antibiotic catabolic process,45,10,2.19,4.70E-05,0.001831907
+GO:0042737,drug catabolic process,84,14,4.08,4.80E-05,0.001849379
+GO:0019359,nicotinamide nucleotide biosynthetic pro...,64,12,3.11,5.10E-05,0.001942636
+GO:0016053,organic acid biosynthetic process,626,53,30.42,5.60E-05,0.002076783
+GO:0046394,carboxylic acid biosynthetic process,626,53,30.42,5.60E-05,0.002076783
+GO:0006766,vitamin metabolic process,96,15,4.67,5.70E-05,0.002076783
+GO:0061077,chaperone-mediated protein folding,96,15,4.67,5.70E-05,0.002076783
+GO:0019363,pyridine nucleotide biosynthetic process,65,12,3.16,5.90E-05,0.002126538
+GO:0006090,pyruvate metabolic process,97,15,4.71,6.50E-05,0.002317872
+GO:0042435,indole-containing compound biosynthetic ...,56,11,2.72,6.60E-05,0.002328758
+GO:0000272,polysaccharide catabolic process,77,13,3.74,7.80E-05,0.0027235
+GO:0009416,response to light stimulus,911,70,44.27,8.50E-05,0.00293732
+GO:0016999,antibiotic metabolic process,123,17,5.98,9.30E-05,0.00318098
+GO:0044264,cellular polysaccharide metabolic proces...,265,28,12.88,9.50E-05,0.003216566
+GO:0006568,tryptophan metabolic process,24,7,1.17,0.0001,0.003318812
+GO:0006586,indolalkylamine metabolic process,24,7,1.17,0.0001,0.003318812
+GO:0032787,monocarboxylic acid metabolic process,613,51,29.79,0.00012,0.003867692
+GO:0005977,glycogen metabolic process,41,9,1.99,0.00012,0.003867692
+GO:0006112,energy reserve metabolic process,41,9,1.99,0.00012,0.003867692
+GO:0042168,heme metabolic process,18,6,0.87,0.00014,0.004469333
+GO:0006399,tRNA metabolic process,178,21,8.65,0.00015,0.004743396
+GO:0055086,nucleobase-containing small molecule met...,420,38,20.41,0.00017,0.005276296
+GO:0006979,response to oxidative stress,559,47,27.17,0.00017,0.005276296
+GO:0009314,response to radiation,967,72,47,0.00018,0.005535413
+GO:0090407,organophosphate biosynthetic process,377,35,18.32,0.00019,0.005789818
+GO:0006753,nucleoside phosphate metabolic process,334,32,16.23,0.0002,0.005932743
+GO:0000162,tryptophan biosynthetic process,19,6,0.92,0.0002,0.005932743
+GO:0046219,indolalkylamine biosynthetic process,19,6,0.92,0.0002,0.005932743
+GO:0043648,dicarboxylic acid metabolic process,85,13,4.13,0.00022,0.006412522
+GO:0008652,cellular amino acid biosynthetic process,170,20,8.26,0.00022,0.006412522
+GO:0006418,tRNA aminoacylation for protein translat...,64,11,3.11,0.00023,0.006646207
+GO:0019637,organophosphate metabolic process,617,50,29.99,0.00026,0.007448889
+GO:0019319,hexose biosynthetic process,20,6,0.97,0.00028,0.007953898
+GO:0006536,glutamate metabolic process,28,7,1.36,0.0003,0.00838
+GO:0019682,glyceraldehyde-3-phosphate metabolic pro...,28,7,1.36,0.0003,0.00838
+GO:0009117,nucleotide metabolic process,331,31,16.09,0.00037,0.010249917
+GO:0000413,protein peptidyl-prolyl isomerization,58,10,2.82,0.00043,0.011718374
+GO:0009064,glutamine family amino acid metabolic pr...,58,10,2.82,0.00043,0.011718374
+GO:0009165,nucleotide biosynthetic process,221,23,10.74,0.00048,0.01287168
+GO:1901293,nucleoside phosphate biosynthetic proces...,221,23,10.74,0.00048,0.01287168
+GO:0006457,protein folding,154,18,7.48,0.00049,0.013035556
+GO:1903409,reactive oxygen species biosynthetic pro...,31,7,1.51,0.00059,0.015572283
+GO:0009123,nucleoside monophosphate metabolic proce...,170,19,8.26,0.00061,0.015974375
+GO:0005976,polysaccharide metabolic process,312,29,15.16,0.00063,0.016370233
+GO:0008655,pyrimidine-containing compound salvage,23,6,1.12,0.00064,0.016502154
+GO:0009112,nucleobase metabolic process,41,8,1.99,0.00069,0.017655573
+GO:0006000,fructose metabolic process,16,5,0.78,0.00075,0.018902256
+GO:0006783,heme biosynthetic process,16,5,0.78,0.00075,0.018902256
+GO:0009853,photorespiration,52,9,2.53,0.00081,0.02026209
+GO:0009156,ribonucleoside monophosphate biosyntheti...,110,14,5.35,0.00088,0.021531095
+GO:0009309,amine biosynthetic process,33,7,1.6,0.00088,0.021531095
+GO:0042401,cellular biogenic amine biosynthetic pro...,33,7,1.6,0.00088,0.021531095
+GO:0006165,nucleoside diphosphate phosphorylation,64,10,3.11,0.00097,0.023561159
+GO:0034660,ncRNA metabolic process,414,35,20.12,0.00104,0.025079712
+GO:0006415,translational termination,11,4,0.53,0.00139,0.033044539
+GO:0006541,glutamine metabolic process,11,4,0.53,0.00139,0.033044539
+GO:0042866,pyruvate biosynthetic process,56,9,2.72,0.0014,0.033047887
+GO:0009124,nucleoside monophosphate biosynthetic pr...,116,14,5.64,0.00148,0.034692028
+GO:0009636,response to toxic substance,424,35,20.61,0.00157,0.036546111
+GO:0046939,nucleotide phosphorylation,69,10,3.35,0.00175,0.039861622
+GO:0006576,cellular biogenic amine metabolic proces...,47,8,2.28,0.00175,0.039861622
+GO:0000002,mitochondrial genome maintenance,19,5,0.92,0.00176,0.039861622
+GO:0046184,aldehyde biosynthetic process,19,5,0.92,0.00176,0.039861622
+GO:0006206,pyrimidine nucleobase metabolic process,28,6,1.36,0.00194,0.04364349
+GO:0009065,glutamine family amino acid catabolic pr...,12,4,0.58,0.002,0.044693333
+GO:0072528,pyrimidine-containing compound biosynthe...,59,9,2.87,0.00204,0.045285298
+GO:0005985,sucrose metabolic process,38,7,1.85,0.0021,0.046310526
+GO:0018208,peptidyl-proline modification,83,11,4.03,0.00219,0.047979608
+GO:0071482,cellular response to light stimulus,121,14,5.88,0.00221,0.048103377
+GO:0010207,photosystem II assembly,20,5,0.97,0.00225,0.048561026
+GO:0009161,ribonucleoside monophosphate metabolic p...,148,16,7.19,0.00226,0.048561026

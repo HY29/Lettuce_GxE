@@ -1,0 +1,72 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0022613","ribonucleoprotein complex biogenesis",425,59,10.5,"6.8e-28",2.28004e-24
+"GO:0042254","ribosome biogenesis",342,52,8.45,"1.6e-26",2.6824e-23
+"GO:0010467","gene expression",3524,169,87.08,"1.6e-21",1.78826666666667e-18
+"GO:0006412","translation",547,53,13.52,"7.9e-18",6.622175e-15
+"GO:0043043","peptide biosynthetic process",557,53,13.76,"1.7e-17",1.14002e-14
+"GO:0006364","rRNA processing",207,32,5.12,"7.5e-17",4.19125e-14
+"GO:0043604","amide biosynthetic process",623,55,15.4,"1.1e-16",5.269e-14
+"GO:0034470","ncRNA processing",308,38,7.61,"2.0e-16",8.3825e-14
+"GO:0006396","RNA processing",754,60,18.63,"5.1e-16",1.90003333333333e-13
+"GO:0016072","rRNA metabolic process",225,32,5.56,"9.0e-16",3.0177e-13
+"GO:0042274","ribosomal small subunit biogenesis",80,20,1.98,"3.9e-15",1.17355e-12
+"GO:0006518","peptide metabolic process",655,54,16.19,"4.2e-15",1.17355e-12
+"GO:0030490","maturation of SSU-rRNA",54,17,1.33,"6.7e-15",1.72808461538462e-12
+"GO:0000462","maturation of SSU-rRNA from tricistronic...",49,16,1.21,"2.2e-14",5.269e-12
+"GO:0034641","cellular nitrogen compound metabolic pro...",5008,192,123.76,"6.6e-14",1.47532e-11
+"GO:0022618","ribonucleoprotein complex assembly",191,27,4.72,"2.0e-13",4.19125e-11
+"GO:0043603","cellular amide metabolic process",780,56,19.28,"4.3e-13",8.48111764705882e-11
+"GO:0071826","ribonucleoprotein complex subunit organi...",198,27,4.89,"4.9e-13",9.12761111111111e-11
+"GO:0034660","ncRNA metabolic process",414,39,10.23,"6.1e-13",1.07648947368421e-10
+"GO:0002181","cytoplasmic translation",109,20,2.69,"2.1e-12",3.52065e-10
+"GO:0042255","ribosome assembly",104,19,2.57,"8.1e-12",1.2933e-09
+"GO:1901566","organonitrogen compound biosynthetic pro...",1394,72,34.45,"9.5e-10",1.44788636363636e-07
+"GO:0042273","ribosomal large subunit biogenesis",105,16,2.59,"5.9e-09",8.60117391304348e-07
+"GO:0044271","cellular nitrogen compound biosynthetic ...",3267,128,80.73,"6.6e-09",9.22075e-07
+"GO:0044085","cellular component biogenesis",1625,75,40.16,"5.3e-08",7.10836e-06
+"GO:0070925","organelle assembly",273,24,6.75,"7.7e-08",9.93003846153846e-06
+"GO:0009059","macromolecule biosynthetic process",3282,124,81.1,"1.2e-07",1.49022222222222e-05
+"GO:0034645","cellular macromolecule biosynthetic proc...",3158,120,78.04,"1.6e-07",1.916e-05
+"GO:0016070","RNA metabolic process",3462,126,85.55,"7.7e-07",8.90279310344828e-05
+"GO:0043170","macromolecule metabolic process",7325,226,181.01,"9.0e-07",0.00010059
+"GO:0006807","nitrogen compound metabolic process",7900,239,195.22,"1.4e-06",0.000151425806451613
+"GO:0015843","methylammonium transport",10,5,0.25,"2.0e-06",0.0002095625
+"GO:0090304","nucleic acid metabolic process",3898,136,96.33,"2.4e-06",0.000243854545454545
+"GO:0015837","amine transport",12,5,0.3,"6.2e-06",0.000611429411764706
+"GO:0006139","nucleobase-containing compound metabolic...",4276,144,105.67,"7.9e-06",0.00075682
+"GO:0033119","negative regulation of RNA splicing",13,5,0.32,"9.8e-06",0.000888091891891892
+"GO:0048025","negative regulation of mRNA splicing, vi...",13,5,0.32,"9.8e-06",0.000888091891891892
+"GO:0001522","pseudouridine synthesis",15,5,0.37,"2.2e-05",0.0018914358974359
+"GO:0050686","negative regulation of mRNA processing",15,5,0.37,"2.2e-05",0.0018914358974359
+"GO:0034622","cellular protein-containing complex asse...",641,34,15.84,"2.3e-05",0.001927975
+"GO:0006725","cellular aromatic compound metabolic pro...",4777,155,118.05,"2.4e-05",0.00196273170731707
+"GO:0044249","cellular biosynthetic process",4599,149,113.65,"4.4e-05",0.00351266666666667
+"GO:0000027","ribosomal large subunit assembly",55,8,1.36,"5.7e-05",0.00444467441860465
+"GO:0019755","one-carbon compound transport",29,6,0.72,"6.4e-05",0.00487709090909091
+"GO:0031118","rRNA pseudouridine synthesis",10,4,0.25,"6.8e-05",0.00506675555555555
+"GO:0046483","heterocycle metabolic process",4643,149,114.74,"7.5e-05",0.00546684782608696
+"GO:1901360","organic cyclic compound metabolic proces...",4919,156,121.56,"8.3e-05",0.00592125531914894
+"GO:0000447","endonucleolytic cleavage in ITS1 to sepa...",11,4,0.27,"0.00011",0.00768395833333333
+"GO:0000028","ribosomal small subunit assembly",33,6,0.82,"0.00014",0.00958
+"GO:1901576","organic substance biosynthetic process",4740,150,117.13,"0.00015",0.010059
+"GO:0072488","ammonium transmembrane transport",23,5,0.57,"0.00021",0.0138064705882353
+"GO:0015696","ammonium transport",24,5,0.59,"0.00026",0.016765
+"GO:0008380","RNA splicing",263,17,6.5,"0.00030",0.0189792452830189
+"GO:0043628","ncRNA 3'-end processing",38,6,0.94,"0.00031",0.01916
+"GO:0015695","organic cation transport",25,5,0.62,"0.00032",0.01916
+"GO:0043933","protein-containing complex subunit organ...",916,40,22.64,"0.00032",0.01916
+"GO:0044237","cellular metabolic process",9323,261,230.39,"0.00033",0.0194121052631579
+"GO:0050684","regulation of mRNA processing",54,7,1.33,"0.00035",0.0202336206896552
+"GO:0000154","rRNA modification",39,6,0.96,"0.00036",0.0204589830508475
+"GO:0000398","mRNA splicing, via spliceosome",175,13,4.32,"0.00041",0.022173064516129
+"GO:0065003","protein-containing complex assembly",835,37,20.63,"0.00041",0.022173064516129
+"GO:0000375","RNA splicing, via transesterification re...",198,14,4.89,"0.00041",0.022173064516129
+"GO:0000469","cleavage involved in rRNA processing",27,5,0.67,"0.00046",0.0244822222222222
+"GO:0009058","biosynthetic process",4984,153,123.16,"0.00057",0.02986265625
+"GO:0031125","rRNA 3'-end processing",17,4,0.42,"0.00068",0.0350775384615385
+"GO:0009987","cellular process",12851,336,317.57,"0.00078",0.0396263636363636
+"GO:0000478","endonucleolytic cleavage involved in rRN...",18,4,0.44,"0.00085",0.0419125
+"GO:0000479","endonucleolytic cleavage of tricistronic...",18,4,0.44,"0.00085",0.0419125
+"GO:0048024","regulation of mRNA splicing, via spliceo...",46,6,1.14,"0.00089",0.04311
+"GO:1903312","negative regulation of mRNA metabolic pr...",31,5,0.77,"0.00090",0.04311
+"GO:0071704","organic substance metabolic process",9356,259,231.2,"0.00101",0.0476976056338028

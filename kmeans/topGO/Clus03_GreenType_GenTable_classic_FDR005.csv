@@ -1,0 +1,147 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0009658","chloroplast organization",184,57,10.84,"2.0e-26",6.704e-23
+"GO:0055114","oxidation-reduction process",1348,163,79.39,"6.4e-20",1.07264e-16
+"GO:0044281","small molecule metabolic process",1776,193,104.6,"2.1e-18",2.3464e-15
+"GO:0015979","photosynthesis",197,46,11.6,"3.5e-16",2.933e-13
+"GO:0006091","generation of precursor metabolites and ...",365,62,21.5,"2.7e-14",1.81008e-11
+"GO:0010027","thylakoid membrane organization",45,19,2.65,"2.0e-12",1.11733333333333e-09
+"GO:0009668","plastid membrane organization",51,20,3,"2.8e-12",1.3408e-09
+"GO:0006520","cellular amino acid metabolic process",365,58,21.5,"3.4e-12",1.4246e-09
+"GO:1990748","cellular detoxification",176,35,10.37,"1.6e-10",5.95911111111111e-08
+"GO:0019684","photosynthesis, light reaction",138,30,8.13,"3.4e-10",1.13968e-07
+"GO:0005982","starch metabolic process",79,22,4.65,"5.3e-10",1.53633333333333e-07
+"GO:0098869","cellular oxidant detoxification",175,34,10.31,"5.5e-10",1.53633333333333e-07
+"GO:0000373","Group II intron splicing",22,12,1.3,"6.0e-10",1.54707692307692e-07
+"GO:0019752","carboxylic acid metabolic process",1128,117,66.43,"6.7e-10",1.60417142857143e-07
+"GO:0016108","tetraterpenoid metabolic process",27,13,1.59,"8.7e-10",1.82265e-07
+"GO:0016116","carotenoid metabolic process",27,13,1.59,"8.7e-10",1.82265e-07
+"GO:1901605","alpha-amino acid metabolic process",255,42,15.02,"1.2e-09",2.36611764705882e-07
+"GO:0006082","organic acid metabolic process",1251,125,73.68,"1.7e-09",2.99915789473684e-07
+"GO:0043436","oxoacid metabolic process",1251,125,73.68,"1.7e-09",2.99915789473684e-07
+"GO:0097237","cellular response to toxic substance",201,36,11.84,"1.8e-09",3.0168e-07
+"GO:0009072","aromatic amino acid family metabolic pro...",73,20,4.3,"4.4e-09",7.0232380952381e-07
+"GO:0098754","detoxification",228,38,13.43,"5.1e-09",7.77054545454546e-07
+"GO:0016109","tetraterpenoid biosynthetic process",21,11,1.24,"5.7e-09",7.961e-07
+"GO:0016117","carotenoid biosynthetic process",21,11,1.24,"5.7e-09",7.961e-07
+"GO:0017144","drug metabolic process",467,60,27.5,"8.5e-09",1.13968e-06
+"GO:1901566","organonitrogen compound biosynthetic pro...",1394,133,82.1,"9.0e-09",1.16030769230769e-06
+"GO:0045454","cell redox homeostasis",60,17,3.53,"3.7e-08",4.59348148148148e-06
+"GO:0010109","regulation of photosynthesis",63,17,3.71,"8.2e-08",9.81657142857143e-06
+"GO:0072593","reactive oxygen species metabolic proces...",173,30,10.19,"8.5e-08",9.8248275862069e-06
+"GO:0022900","electron transport chain",112,23,6.6,"1.2e-07",1.3408e-05
+"GO:0010020","chloroplast fission",17,9,1,"1.3e-07",1.36175e-05
+"GO:0043572","plastid fission",17,9,1,"1.3e-07",1.36175e-05
+"GO:0043094","cellular metabolic compound salvage",98,21,5.77,"2.0e-07",2.03151515151515e-05
+"GO:0006753","nucleoside phosphate metabolic process",334,44,19.67,"4.3e-07",4.23929411764706e-05
+"GO:0044283","small molecule biosynthetic process",838,85,49.36,"4.8e-07",4.59702857142857e-05
+"GO:0042181","ketone biosynthetic process",31,11,1.83,"7.9e-07",7.35577777777778e-05
+"GO:0009117","nucleotide metabolic process",331,43,19.49,"8.4e-07",7.60994594594595e-05
+"GO:0008152","metabolic process",10388,672,611.81,"9.7e-07",8.55642105263158e-05
+"GO:0042737","drug catabolic process",84,18,4.95,"1.4e-06",0.000119714285714286
+"GO:0032544","plastid translation",12,7,0.71,"1.5e-06",0.000119714285714286
+"GO:0048564","photosystem I assembly",12,7,0.71,"1.5e-06",0.000119714285714286
+"GO:0055086","nucleobase-containing small molecule met...",420,50,24.74,"1.5e-06",0.000119714285714286
+"GO:0006006","glucose metabolic process",28,10,1.65,"2.4e-06",0.000187088372093023
+"GO:0019637","organophosphate metabolic process",617,65,36.34,"3.3e-06",0.0002514
+"GO:0009073","aromatic amino acid family biosynthetic ...",49,13,2.89,"3.4e-06",0.000253262222222222
+"GO:1901661","quinone metabolic process",24,9,1.41,"4.8e-06",0.0003352
+"GO:1901663","quinone biosynthetic process",24,9,1.41,"4.8e-06",0.0003352
+"GO:0006081","cellular aldehyde metabolic process",58,14,3.42,"4.8e-06",0.0003352
+"GO:0005983","starch catabolic process",32,10,1.88,"9.4e-06",0.000643036734693878
+"GO:0009063","cellular amino acid catabolic process",78,16,4.59,"1.0e-05",0.000657254901960784
+"GO:0010206","photosystem II repair",15,7,0.88,"1.0e-05",0.000657254901960784
+"GO:0009767","photosynthetic electron transport chain",63,14,3.71,"1.4e-05",0.000902461538461539
+"GO:0034599","cellular response to oxidative stress",178,26,10.48,"1.6e-05",0.00101192452830189
+"GO:0030091","protein repair",16,7,0.94,"1.7e-05",0.00103607272727273
+"GO:0042440","pigment metabolic process",200,28,11.78,"1.7e-05",0.00103607272727273
+"GO:0006073","cellular glucan metabolic process",181,26,10.66,"2.2e-05",0.00129375438596491
+"GO:1901606","alpha-amino acid catabolic process",74,15,4.36,"2.2e-05",0.00129375438596491
+"GO:0009110","vitamin biosynthetic process",83,16,4.89,"2.3e-05",0.00131881967213115
+"GO:0042743","hydrogen peroxide metabolic process",66,14,3.89,"2.4e-05",0.00131881967213115
+"GO:0043038","amino acid activation",66,14,3.89,"2.4e-05",0.00131881967213115
+"GO:0043039","tRNA aminoacylation",66,14,3.89,"2.4e-05",0.00131881967213115
+"GO:0072528","pyrimidine-containing compound biosynthe...",59,13,3.47,"3.0e-05",0.00162193548387097
+"GO:0044042","glucan metabolic process",186,26,10.95,"3.5e-05",0.00186222222222222
+"GO:0006766","vitamin metabolic process",96,17,5.65,"4.0e-05",0.00206276923076923
+"GO:0072524","pyridine-containing compound metabolic p...",96,17,5.65,"4.0e-05",0.00206276923076923
+"GO:0000105","histidine biosynthetic process",13,6,0.77,"4.9e-05",0.00238040579710145
+"GO:0006547","histidine metabolic process",13,6,0.77,"4.9e-05",0.00238040579710145
+"GO:0016122","xanthophyll metabolic process",13,6,0.77,"4.9e-05",0.00238040579710145
+"GO:0052803","imidazole-containing compound metabolic ...",13,6,0.77,"4.9e-05",0.00238040579710145
+"GO:0090407","organophosphate biosynthetic process",377,42,22.2,"5.2e-05",0.00249005714285714
+"GO:0006778","porphyrin-containing compound metabolic ...",128,20,7.54,"5.7e-05",0.00265366666666667
+"GO:0033013","tetrapyrrole metabolic process",128,20,7.54,"5.7e-05",0.00265366666666667
+"GO:0000002","mitochondrial genome maintenance",19,7,1.12,"6.5e-05",0.00298465753424658
+"GO:0009636","response to toxic substance",424,45,24.97,"9.1e-05",0.00412205405405405
+"GO:0072527","pyrimidine-containing compound metabolic...",75,14,4.42,"0.00011",0.00472717948717949
+"GO:0009165","nucleotide biosynthetic process",221,28,13.02,"0.00011",0.00472717948717949
+"GO:1901293","nucleoside phosphate biosynthetic proces...",221,28,13.02,"0.00011",0.00472717948717949
+"GO:0019252","starch biosynthetic process",34,9,2,"0.00011",0.00472717948717949
+"GO:0009251","glucan catabolic process",50,11,2.94,"0.00012",0.00496592592592593
+"GO:0044247","cellular polysaccharide catabolic proces...",50,11,2.94,"0.00012",0.00496592592592593
+"GO:0042744","hydrogen peroxide catabolic process",42,10,2.47,"0.00012",0.00496592592592593
+"GO:0009735","response to cytokinin",306,35,18.02,"0.00013",0.00518761904761905
+"GO:0006094","gluconeogenesis",15,6,0.88,"0.00013",0.00518761904761905
+"GO:0046471","phosphatidylglycerol metabolic process",15,6,0.88,"0.00013",0.00518761904761905
+"GO:0044275","cellular carbohydrate catabolic process",68,13,4,"0.00014",0.00552094117647059
+"GO:0008652","cellular amino acid biosynthetic process",170,23,10.01,"0.00016",0.00623627906976744
+"GO:1901607","alpha-amino acid biosynthetic process",149,21,8.78,"0.00017",0.00647545454545455
+"GO:0046148","pigment biosynthetic process",160,22,9.42,"0.00017",0.00647545454545455
+"GO:0046496","nicotinamide nucleotide metabolic proces...",88,15,5.18,"0.00018",0.006704
+"GO:0009853","photorespiration",52,11,3.06,"0.00018",0.006704
+"GO:0072598","protein localization to chloroplast",61,12,3.59,"0.00019",0.00692260869565217
+"GO:0005984","disaccharide metabolic process",70,13,4.12,"0.00019",0.00692260869565217
+"GO:0019362","pyridine nucleotide metabolic process",89,15,5.24,"0.00020",0.00720860215053764
+"GO:0005975","carbohydrate metabolic process",599,57,35.28,"0.00022",0.00784510638297872
+"GO:0017001","antibiotic catabolic process",45,10,2.65,"0.00023",0.00811536842105263
+"GO:0006655","phosphatidylglycerol biosynthetic proces...",11,5,0.65,"0.00024",0.00838
+"GO:0071482","cellular response to light stimulus",121,18,7.13,"0.00025",0.00863917525773196
+"GO:0008655","pyrimidine-containing compound salvage",23,7,1.35,"0.00026",0.00880323232323232
+"GO:0072525","pyridine-containing compound biosyntheti...",72,13,4.24,"0.00026",0.00880323232323232
+"GO:0008610","lipid biosynthetic process",617,58,36.34,"0.00027",0.0090504
+"GO:0005985","sucrose metabolic process",38,9,2.24,"0.00028",0.00929267326732673
+"GO:0006418","tRNA aminoacylation for protein translat...",64,12,3.77,"0.00031",0.0101874509803922
+"GO:0006399","tRNA metabolic process",178,23,10.48,"0.00032",0.0104139805825243
+"GO:1903409","reactive oxygen species biosynthetic pro...",31,8,1.83,"0.00033",0.0106361538461538
+"GO:0006568","tryptophan metabolic process",24,7,1.41,"0.00034",0.0107516981132075
+"GO:0006586","indolalkylamine metabolic process",24,7,1.41,"0.00034",0.0107516981132075
+"GO:0062197","cellular response to chemical stress",237,28,13.96,"0.00035",0.0109644859813084
+"GO:0019674","NAD metabolic process",18,6,1.06,"0.00041",0.0126084403669725
+"GO:0043648","dicarboxylic acid metabolic process",85,14,5.01,"0.00041",0.0126084403669725
+"GO:0042726","flavin-containing compound metabolic pro...",25,7,1.47,"0.00045",0.0137127272727273
+"GO:0071478","cellular response to radiation",138,19,8.13,"0.00046",0.0138911711711712
+"GO:0061077","chaperone-mediated protein folding",96,15,5.65,"0.00047",0.0140664285714286
+"GO:0009416","response to light stimulus",911,78,53.65,"0.00050",0.0148318584070796
+"GO:0005977","glycogen metabolic process",41,9,2.41,"0.00052",0.0148977777777778
+"GO:0006112","energy reserve metabolic process",41,9,2.41,"0.00052",0.0148977777777778
+"GO:0009112","nucleobase metabolic process",41,9,2.41,"0.00052",0.0148977777777778
+"GO:0006090","pyruvate metabolic process",97,15,5.71,"0.00052",0.0148977777777778
+"GO:0009074","aromatic amino acid family catabolic pro...",19,6,1.12,"0.00057",0.0161918644067797
+"GO:0006213","pyrimidine nucleoside metabolic process",27,7,1.59,"0.00075",0.0210538842975207
+"GO:0016052","carbohydrate catabolic process",166,21,9.78,"0.00076",0.0210538842975207
+"GO:0034660","ncRNA metabolic process",414,41,24.38,"0.00076",0.0210538842975207
+"GO:0019319","hexose biosynthetic process",20,6,1.18,"0.00078",0.0214308196721311
+"GO:0016999","antibiotic metabolic process",123,17,7.24,"0.00087",0.0237092682926829
+"GO:0044282","small molecule catabolic process",239,27,14.08,"0.00088",0.0237883870967742
+"GO:0019682","glyceraldehyde-3-phosphate metabolic pro...",28,7,1.65,"0.00095",0.0254752
+"GO:0019318","hexose metabolic process",63,11,3.71,"0.00102",0.0271352380952381
+"GO:0006220","pyrimidine nucleotide metabolic process",45,9,2.65,"0.00106",0.02775875
+"GO:0042133","neurotransmitter metabolic process",45,9,2.65,"0.00106",0.02775875
+"GO:0042180","cellular ketone metabolic process",148,19,8.72,"0.00111",0.0288427906976744
+"GO:0009314","response to radiation",967,80,56.95,"0.00116",0.0297109090909091
+"GO:0019359","nicotinamide nucleotide biosynthetic pro...",64,11,3.77,"0.00117",0.0297109090909091
+"GO:0032787","monocarboxylic acid metabolic process",613,55,36.1,"0.00117",0.0297109090909091
+"GO:0043097","pyrimidine nucleoside salvage",15,5,0.88,"0.00128",0.0322598496240602
+"GO:0019363","pyridine nucleotide biosynthetic process",65,11,3.83,"0.00133",0.0332698507462687
+"GO:0033014","tetrapyrrole biosynthetic process",106,15,6.24,"0.00134",0.0332717037037037
+"GO:0000305","response to oxygen radical",22,6,1.3,"0.00135",0.0332735294117647
+"GO:0016054","organic acid catabolic process",188,22,11.07,"0.00162",0.0393495652173913
+"GO:0046395","carboxylic acid catabolic process",188,22,11.07,"0.00162",0.0393495652173913
+"GO:0045017","glycerolipid biosynthetic process",109,15,6.42,"0.00178",0.0429248920863309
+"GO:0016053","organic acid biosynthetic process",626,55,36.87,"0.00188",0.0443026573426573
+"GO:0046394","carboxylic acid biosynthetic process",626,55,36.87,"0.00188",0.0443026573426573
+"GO:0000413","protein peptidyl-prolyl isomerization",58,10,3.42,"0.00189",0.0443026573426573
+"GO:0009064","glutamine family amino acid metabolic pr...",58,10,3.42,"0.00189",0.0443026573426573
+"GO:0006979","response to oxidative stress",559,50,32.92,"0.00206",0.0479522222222222
+"GO:0045036","protein targeting to chloroplast",59,10,3.47,"0.00215",0.0493616438356164
+"GO:0072596","establishment of protein localization to...",59,10,3.47,"0.00215",0.0493616438356164

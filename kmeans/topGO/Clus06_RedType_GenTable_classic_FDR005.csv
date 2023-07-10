@@ -1,0 +1,150 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0010200","response to chitin",195,37,6.96,"4.3e-17",1.44179e-13
+"GO:0009607","response to biotic stimulus",1490,108,53.19,"3.1e-13",3.55418e-10
+"GO:0051707","response to other organism",1478,107,52.76,"4.5e-13",3.55418e-10
+"GO:0010243","response to organonitrogen compound",384,46,13.71,"4.7e-13",3.55418e-10
+"GO:0043207","response to external biotic stimulus",1482,107,52.9,"5.3e-13",3.55418e-10
+"GO:0006952","defense response",1284,96,45.83,"1.5e-12",8.3825e-10
+"GO:0044419","interspecies interaction between organis...",1532,107,54.68,"4.3e-12",1.9698875e-09
+"GO:0006950","response to stress",3949,212,140.96,"4.7e-12",1.9698875e-09
+"GO:0050896","response to stimulus",6855,321,244.69,"5.5e-12",2.04905555555556e-09
+"GO:1901700","response to oxygen-containing compound",2376,145,84.81,"8.8e-12",2.95064e-09
+"GO:0098542","defense response to other organism",1134,85,40.48,"3.2e-11",9.75418181818182e-09
+"GO:0006468","protein phosphorylation",1249,90,44.58,"6.3e-11",1.760325e-08
+"GO:0006464","cellular protein modification process",2572,150,91.81,"1.1e-10",2.6345e-08
+"GO:0036211","protein modification process",2572,150,91.81,"1.1e-10",2.6345e-08
+"GO:0009605","response to external stimulus",2031,126,72.5,"1.2e-10",2.6824e-08
+"GO:0001101","response to acid chemical",1518,100,54.18,"7.1e-10",1.48789375e-07
+"GO:0031347","regulation of defense response",366,38,13.06,"3.4e-09",6.706e-07
+"GO:1901698","response to nitrogen compound",559,49,19.95,"5.6e-09",1.04315555555556e-06
+"GO:0048583","regulation of response to stimulus",1313,87,46.87,"8.8e-09",1.55296842105263e-06
+"GO:0009611","response to wounding",419,40,14.96,"1.5e-08",2.51475e-06
+"GO:0080134","regulation of response to stress",558,47,19.92,"4.0e-08",6.38666666666667e-06
+"GO:0065007","biological regulation",6398,288,228.37,"5.9e-08",8.99213636363636e-06
+"GO:0051704","multi-organism process",1975,114,70.5,"7.4e-08",1.07879130434783e-05
+"GO:0016310","phosphorylation",1541,94,55.01,"1.1e-07",1.53679166666667e-05
+"GO:0007165","signal transduction",2046,116,73.03,"1.4e-07",1.87768e-05
+"GO:0023052","signaling",2093,118,74.71,"1.5e-07",1.93442307692308e-05
+"GO:0009617","response to bacterium",642,50,22.92,"1.7e-07",2.11114814814815e-05
+"GO:0009753","response to jasmonic acid",323,32,11.53,"1.8e-07",2.1555e-05
+"GO:0042493","response to drug",801,58,28.59,"2.0e-07",2.31241379310345e-05
+"GO:0032101","regulation of response to external stimu...",293,30,10.46,"2.2e-07",2.45886666666667e-05
+"GO:0050789","regulation of biological process",5695,259,203.28,"2.9e-07",3.03865625e-05
+"GO:0006796","phosphate-containing compound metabolic ...",2143,119,76.49,"2.9e-07",3.03865625e-05
+"GO:0042742","defense response to bacterium",525,43,18.74,"3.4e-07",3.45460606060606e-05
+"GO:0007154","cell communication",2340,127,83.53,"3.6e-07",3.55023529411765e-05
+"GO:0050794","regulation of cellular process",5133,236,183.22,"7.6e-07",7.26483333333333e-05
+"GO:0006793","phosphorus metabolic process",2183,119,77.92,"7.8e-07",7.26483333333333e-05
+"GO:0010033","response to organic substance",2800,144,99.95,"1.1e-06",9.96837837837838e-05
+"GO:0071395","cellular response to jasmonic acid stimu...",148,19,5.28,"1.3e-06",0.000114707894736842
+"GO:0045087","innate immune response",491,39,17.53,"2.6e-06",0.000223533333333333
+"GO:0002831","regulation of response to biotic stimulu...",264,26,9.42,"2.9e-06",0.0002430925
+"GO:0009867","jasmonic acid mediated signaling pathway",144,18,5.14,"3.7e-06",0.000302587804878049
+"GO:0000160","phosphorelay signal transduction system",174,20,6.21,"4.1e-06",0.000327316666666667
+"GO:0035556","intracellular signal transduction",746,51,26.63,"6.1e-06",0.000475658139534884
+"GO:0006955","immune response",549,41,19.6,"6.5e-06",0.000495329545454545
+"GO:0009415","response to water",511,39,18.24,"6.7e-06",0.000499224444444444
+"GO:0071229","cellular response to acid chemical",457,36,16.31,"7.6e-06",0.000553973913043478
+"GO:0009873","ethylene-activated signaling pathway",152,18,5.43,"8.1e-06",0.000577857446808511
+"GO:0009755","hormone-mediated signaling pathway",1012,63,36.12,"1.0e-05",0.000698541666666667
+"GO:0044550","secondary metabolite biosynthetic proces...",373,31,13.31,"1.1e-05",0.000752714285714286
+"GO:0009414","response to water deprivation",505,38,18.03,"1.2e-05",0.000788941176470588
+"GO:0042221","response to chemical",4013,187,143.24,"1.2e-05",0.000788941176470588
+"GO:0044267","cellular protein metabolic process",3402,163,121.43,"1.3e-05",0.00083825
+"GO:0044260","cellular macromolecule metabolic process",5995,261,213.99,"1.4e-05",0.000885698113207547
+"GO:0009723","response to ethylene",397,32,14.17,"1.5e-05",0.000931388888888889
+"GO:0009725","response to hormone",2235,114,79.78,"3.2e-05",0.00195083636363636
+"GO:0043412","macromolecule modification",3177,152,113.4,"3.3e-05",0.001975875
+"GO:0009864","induced systemic resistance, jasmonic ac...",27,7,0.96,"3.4e-05",0.0020000350877193
+"GO:0009268","response to pH",12,5,0.43,"3.7e-05",0.00213898275862069
+"GO:0009719","response to endogenous stimulus",2295,116,81.92,"4.0e-05",0.00227322033898305
+"GO:0071704","organic substance metabolic process",9356,376,333.96,"4.1e-05",0.00229121666666667
+"GO:0071369","cellular response to ethylene stimulus",174,18,6.21,"5.1e-05",0.00280332786885246
+"GO:0002218","activation of innate immune response",86,12,3.07,"5.2e-05",0.0028121935483871
+"GO:0045088","regulation of innate immune response",192,19,6.85,"5.9e-05",0.003091046875
+"GO:0019538","protein metabolic process",3699,171,132.03,"5.9e-05",0.003091046875
+"GO:0010105","negative regulation of ethylene-activate...",63,10,2.25,"7.2e-05",0.00365781818181818
+"GO:0070298","negative regulation of phosphorelay sign...",63,10,2.25,"7.2e-05",0.00365781818181818
+"GO:0050776","regulation of immune response",229,21,8.17,"7.4e-05",0.00370331343283582
+"GO:0002253","activation of immune response",90,12,3.21,"8.2e-05",0.00398472463768116
+"GO:0051865","protein autoubiquitination",52,9,1.86,"8.2e-05",0.00398472463768116
+"GO:0002682","regulation of immune system process",249,22,8.89,"8.8e-05",0.00417976712328767
+"GO:1903506","regulation of nucleic acid-templated tra...",2070,105,73.89,"9.0e-05",0.00417976712328767
+"GO:2001141","regulation of RNA biosynthetic process",2070,105,73.89,"9.0e-05",0.00417976712328767
+"GO:0019748","secondary metabolic process",554,38,19.77,"9.1e-05",0.00417976712328767
+"GO:0032870","cellular response to hormone stimulus",1137,65,40.58,"9.8e-05",0.00444045945945946
+"GO:0008152","metabolic process",10388,408,370.8,"0.00010",0.00447066666666667
+"GO:0009692","ethylene metabolic process",32,7,1.14,"0.00011",0.004610375
+"GO:0009693","ethylene biosynthetic process",32,7,1.14,"0.00011",0.004610375
+"GO:0043449","cellular alkene metabolic process",32,7,1.14,"0.00011",0.004610375
+"GO:0043450","alkene biosynthetic process",32,7,1.14,"0.00011",0.004610375
+"GO:1900674","olefin biosynthetic process",32,7,1.14,"0.00011",0.004610375
+"GO:0016567","protein ubiquitination",581,39,20.74,"0.00012",0.00484771084337349
+"GO:0009620","response to fungus",561,38,20.02,"0.00012",0.00484771084337349
+"GO:0071495","cellular response to endogenous stimulus",1214,68,43.33,"0.00012",0.00484771084337349
+"GO:0032446","protein modification by small protein co...",607,40,21.67,"0.00014",0.00558833333333333
+"GO:0031349","positive regulation of defense response",156,16,5.57,"0.00015",0.00591705882352941
+"GO:1901362","organic cyclic compound biosynthetic pro...",2996,141,106.94,"0.00016",0.00623813953488372
+"GO:0048584","positive regulation of response to stimu...",470,33,16.78,"0.00017",0.00655183908045977
+"GO:0045089","positive regulation of innate immune res...",127,14,4.53,"0.00018",0.00685840909090909
+"GO:0009889","regulation of biosynthetic process",2479,120,88.49,"0.00019",0.00707855555555556
+"GO:1902532","negative regulation of intracellular sig...",84,11,3,"0.00019",0.00707855555555556
+"GO:1901564","organonitrogen compound metabolic proces...",4730,207,168.84,"0.00020",0.00728913043478261
+"GO:0002376","immune system process",639,41,22.81,"0.00020",0.00728913043478261
+"GO:0050832","defense response to fungus",458,32,16.35,"0.00023",0.00820414893617021
+"GO:0019438","aromatic compound biosynthetic process",2868,135,102.37,"0.00023",0.00820414893617021
+"GO:1900673","olefin metabolic process",36,7,1.29,"0.00024",0.00847073684210526
+"GO:0010104","regulation of ethylene-activated signali...",73,10,2.61,"0.00025",0.00855357142857143
+"GO:0070297","regulation of phosphorelay signal transd...",73,10,2.61,"0.00025",0.00855357142857143
+"GO:0120251","hydrocarbon biosynthetic process",73,10,2.61,"0.00025",0.00855357142857143
+"GO:0051716","cellular response to stimulus",3465,158,123.68,"0.00027",0.0090531
+"GO:0009699","phenylpropanoid biosynthetic process",117,13,4.18,"0.00027",0.0090531
+"GO:0031326","regulation of cellular biosynthetic proc...",2427,117,86.63,"0.00028",0.00929544554455445
+"GO:0097659","nucleic acid-templated transcription",2158,106,77.03,"0.00029",0.00953303921568627
+"GO:0042446","hormone biosynthetic process",274,22,9.78,"0.00034",0.0110681553398058
+"GO:0009812","flavonoid metabolic process",136,14,4.85,"0.00036",0.011496
+"GO:0032774","RNA biosynthetic process",2171,106,77.49,"0.00036",0.011496
+"GO:0009628","response to abiotic stimulus",2647,125,94.48,"0.00038",0.0119078504672897
+"GO:0006355","regulation of transcription, DNA-templat...",2027,100,72.35,"0.00038",0.0119078504672897
+"GO:0002213","defense response to insect",28,6,1,"0.00039",0.0121080555555556
+"GO:1901701","cellular response to oxygen-containing c...",1061,59,37.87,"0.00043",0.012718275862069
+"GO:0052031","modulation by symbiont of host defense r...",19,5,0.68,"0.00044",0.012718275862069
+"GO:0052167","modulation by symbiont of host innate im...",19,5,0.68,"0.00044",0.012718275862069
+"GO:0052173","response to defenses of other organism",19,5,0.68,"0.00044",0.012718275862069
+"GO:0052200","response to host defenses",19,5,0.68,"0.00044",0.012718275862069
+"GO:0052553","modulation by symbiont of host immune re...",19,5,0.68,"0.00044",0.012718275862069
+"GO:0052572","response to host immune response",19,5,0.68,"0.00044",0.012718275862069
+"GO:0075136","response to host",19,5,0.68,"0.00044",0.012718275862069
+"GO:0050778","positive regulation of immune response",139,14,4.96,"0.00045",0.0128961538461538
+"GO:0031323","regulation of cellular metabolic process",2978,137,106.3,"0.00057",0.0160605882352941
+"GO:0070647","protein modification by small protein co...",672,41,23.99,"0.00057",0.0160605882352941
+"GO:0019222","regulation of metabolic process",3319,150,118.47,"0.00063",0.01760325
+"GO:0051252","regulation of RNA metabolic process",2180,105,77.81,"0.00064",0.0177191056910569
+"GO:1902531","regulation of intracellular signal trans...",178,16,6.35,"0.00065",0.0177191056910569
+"GO:0080090","regulation of primary metabolic process",2809,130,100.27,"0.00065",0.0177191056910569
+"GO:0048585","negative regulation of response to stimu...",528,34,18.85,"0.00066",0.0178466129032258
+"GO:0051171","regulation of nitrogen compound metaboli...",2764,128,98.66,"0.00071",0.01904504
+"GO:0009682","induced systemic resistance",56,8,2,"0.00078",0.0207566666666667
+"GO:0002684","positive regulation of immune system pro...",147,14,5.25,"0.00079",0.0208572440944882
+"GO:0009962","regulation of flavonoid biosynthetic pro...",44,7,1.57,"0.00086",0.02252796875
+"GO:0031098","stress-activated protein kinase signalin...",57,8,2.03,"0.00088",0.0228731782945736
+"GO:0009698","phenylpropanoid metabolic process",149,14,5.32,"0.00090",0.0232130769230769
+"GO:0120252","hydrocarbon metabolic process",86,10,3.07,"0.00096",0.0242021052631579
+"GO:0002833","positive regulation of response to bioti...",150,14,5.35,"0.00096",0.0242021052631579
+"GO:0009966","regulation of signal transduction",712,42,25.41,"0.00096",0.0242021052631579
+"GO:0071310","cellular response to organic substance",1451,74,51.79,"0.00100",0.0250223880597015
+"GO:0032103","positive regulation of response to exter...",151,14,5.39,"0.00103",0.0255821481481482
+"GO:0006351","transcription, DNA-templated",2121,101,75.71,"0.00121",0.0298318382352941
+"GO:0120255","olefinic compound biosynthetic process",60,8,2.14,"0.00125",0.0305930656934307
+"GO:0009809","lignin biosynthetic process",47,7,1.68,"0.00129",0.0313432608695652
+"GO:0010556","regulation of macromolecule biosynthetic...",2329,109,83.13,"0.00137",0.0330475539568345
+"GO:0044238","primary metabolic process",8721,344,311.29,"0.00154",0.036883
+"GO:0033993","response to lipid",1189,62,42.44,"0.00156",0.0370970212765957
+"GO:0010646","regulation of cell communication",778,44,27.77,"0.00169",0.0399054225352113
+"GO:0120254","olefinic compound metabolic process",110,11,3.93,"0.00190",0.0445503496503496
+"GO:0044237","cellular metabolic process",9323,364,332.78,"0.00192",0.0447066666666667
+"GO:0043405","regulation of MAP kinase activity",26,5,0.93,"0.00201",0.0464795172413793
+"GO:0060255","regulation of macromolecule metabolic pr...",2995,134,106.91,"0.00205",0.0465819463087248
+"GO:0023014","signal transduction by protein phosphory...",95,10,3.39,"0.00205",0.0465819463087248
+"GO:0032104","regulation of response to extracellular ...",16,4,0.57,"0.00207",0.0465819463087248
+"GO:0032107","regulation of response to nutrient level...",16,4,0.57,"0.00207",0.0465819463087248

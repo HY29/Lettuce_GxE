@@ -1,0 +1,57 @@
+GO.ID,Term,Annotated,Significant,Expected,Pvalue,Adj.Pvalue
+GO:0010200,response to chitin,195,32,5.35,2.70E-16,9.05E-13
+GO:0009768,"photosynthesis, light harvesting in photosystem I",26,13,0.71,3.10E-14,5.20E-11
+GO:0009765,"photosynthesis, light harvesting",42,13,1.15,5.10E-11,5.70E-08
+GO:0042493,response to drug,801,56,21.99,9.00E-11,6.71E-08
+GO:0050896,response to stimulus,6855,251,188.22,1.20E-10,6.71E-08
+GO:0010243,response to organonitrogen compound,384,36,10.54,1.20E-10,6.71E-08
+GO:1901700,response to oxygen-containing compound,2376,114,65.24,3.80E-10,1.82E-07
+GO:0001101,response to acid chemical,1518,83,41.68,5.00E-10,2.10E-07
+GO:0006950,response to stress,3949,163,108.43,1.50E-09,5.59E-07
+GO:0006952,defense response,1284,70,35.26,1.70E-08,5.70E-06
+GO:0019684,"photosynthesis, light reaction",138,18,3.79,4.30E-08,1.20E-05
+GO:0071229,cellular response to acid chemical,457,35,12.55,4.30E-08,1.20E-05
+GO:0009607,response to biotic stimulus,1490,75,40.91,1.40E-07,3.61E-05
+GO:0051707,response to other organism,1478,74,40.58,2.10E-07,5.03E-05
+GO:0043207,response to external biotic stimulus,1482,74,40.69,2.30E-07,5.14E-05
+GO:0009611,response to wounding,419,31,11.5,5.60E-07,0.000117355
+GO:0098542,defense response to other organism,1134,60,31.14,6.00E-07,0.000118341
+GO:1901698,response to nitrogen compound,559,37,15.35,7.00E-07,0.000130394
+GO:0044419,interspecies interaction between organis...,1532,74,42.06,8.40E-07,0.000148238
+GO:0042221,response to chemical,4013,154,110.19,9.40E-07,0.000157591
+GO:0071395,cellular response to jasmonic acid stimu...,148,16,4.06,3.10E-06,0.000494967
+GO:0009415,response to water,511,33,14.03,4.80E-06,0.000731564
+GO:0015979,photosynthesis,197,18,5.41,8.40E-06,0.001224574
+GO:0009867,jasmonic acid mediated signaling pathway,144,15,3.95,9.90E-06,0.0013412
+GO:0009414,response to water deprivation,505,32,13.87,1.00E-05,0.0013412
+GO:0009617,response to bacterium,642,37,17.63,1.70E-05,0.002192346
+GO:0031347,regulation of defense response,366,25,10.05,2.80E-05,0.003353
+GO:0010033,response to organic substance,2800,110,76.88,2.90E-05,0.003353
+GO:0080134,regulation of response to stress,558,33,15.32,2.90E-05,0.003353
+GO:0009753,response to jasmonic acid,323,23,8.87,3.10E-05,0.003464767
+GO:0009605,response to external stimulus,2031,85,55.77,3.40E-05,0.003677484
+GO:0045087,innate immune response,491,30,13.48,3.80E-05,0.003981688
+GO:0006783,heme biosynthetic process,16,5,0.44,5.20E-05,0.005283515
+GO:0009864,"induced systemic resistance, jasmonic ac...",27,6,0.74,7.50E-05,0.007396324
+GO:0051865,protein autoubiquitination,52,8,1.43,7.90E-05,0.0075682
+GO:0042168,heme metabolic process,18,5,0.49,9.70E-05,0.008790297
+GO:0031323,regulation of cellular metabolic process,2978,113,81.77,9.70E-05,0.008790297
+GO:0006955,immune response,549,31,15.07,0.00012,0.010588421
+GO:0042742,defense response to bacterium,525,30,14.42,0.00013,0.011176667
+GO:0009628,response to abiotic stimulus,2647,102,72.68,0.00014,0.0117355
+GO:0009645,response to low light intensity stimulus,20,5,0.55,0.00017,0.013902683
+GO:0009644,response to high light intensity,148,13,4.06,0.00022,0.017563333
+GO:0023014,signal transduction by protein phosphory...,95,10,2.61,0.00028,0.021833488
+GO:0009725,response to hormone,2235,87,61.37,0.00035,0.026671591
+GO:0006979,response to oxidative stress,559,30,15.35,0.00037,0.027569111
+GO:0019222,regulation of metabolic process,3319,120,91.13,0.00043,0.031343261
+GO:0009409,response to cold,570,30,15.65,0.00051,0.036383617
+GO:0009719,response to endogenous stimulus,2295,88,63.01,0.00053,0.037022708
+GO:0002218,activation of innate immune response,86,9,2.36,0.00058,0.0388948
+GO:0048584,positive regulation of response to stimu...,470,26,12.9,0.00058,0.0388948
+GO:0009642,response to light intensity,229,16,6.29,0.0006,0.039447059
+GO:0043405,regulation of MAP kinase activity,26,5,0.71,0.00062,0.039978077
+GO:0016567,protein ubiquitination,581,30,15.95,0.0007,0.044284906
+GO:0019438,aromatic compound biosynthetic process,2868,105,78.75,0.00073,0.045327593
+GO:0051704,multi-organism process,1975,77,54.23,0.0008,0.0479
+GO:0002253,activation of immune response,90,9,2.47,0.0008,0.0479

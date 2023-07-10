@@ -1,0 +1,47 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0006412","translation",547,61,13.18,"3.1e-24",1.03943e-20
+"GO:0043043","peptide biosynthetic process",557,61,13.42,"8.1e-24",1.357965e-20
+"GO:0043604","amide biosynthetic process",623,62,15.01,"5.4e-22",6.0354e-19
+"GO:0042254","ribosome biogenesis",342,46,8.24,"1.0e-21",8.3825e-19
+"GO:0006518","peptide metabolic process",655,63,15.78,"1.4e-21",9.3884e-19
+"GO:0022613","ribonucleoprotein complex biogenesis",425,48,10.24,"2.3e-19",1.28531666666667e-16
+"GO:0043603","cellular amide metabolic process",780,64,18.79,"2.6e-18",1.2454e-15
+"GO:0002181","cytoplasmic translation",109,23,2.63,"1.0e-15",4.19125e-13
+"GO:0010467","gene expression",3524,151,84.91,"3.5e-15",1.30394444444444e-12
+"GO:0000462","maturation of SSU-rRNA from tricistronic...",49,15,1.18,"3.0e-13",1.0059e-10
+"GO:0042274","ribosomal small subunit biogenesis",80,18,1.93,"4.4e-13",1.3412e-10
+"GO:0030490","maturation of SSU-rRNA",54,15,1.3,"1.5e-12",4.19125e-10
+"GO:0034641","cellular nitrogen compound metabolic pro...",5008,183,120.66,"3.7e-12",9.54315384615384e-10
+"GO:0006364","rRNA processing",207,26,4.99,"5.1e-12",1.22145e-09
+"GO:1901566","organonitrogen compound biosynthetic pro...",1394,76,33.59,"6.0e-12",1.3412e-09
+"GO:0016072","rRNA metabolic process",225,26,5.42,"3.5e-11",7.3346875e-09
+"GO:0042255","ribosome assembly",104,18,2.51,"4.9e-11",9.66452941176471e-09
+"GO:0044271","cellular nitrogen compound biosynthetic ...",3267,130,78.71,"2.5e-10",4.65694444444444e-08
+"GO:0034470","ncRNA processing",308,29,7.42,"3.7e-10",6.52952631578947e-08
+"GO:0042273","ribosomal large subunit biogenesis",105,17,2.53,"5.0e-10",8.3825e-08
+"GO:0006396","RNA processing",754,48,18.17,"6.2e-10",9.89933333333333e-08
+"GO:0022618","ribonucleoprotein complex assembly",191,20,4.6,"3.7e-08",5.63913636363636e-06
+"GO:0071826","ribonucleoprotein complex subunit organi...",198,20,4.77,"6.7e-08",9.7674347826087e-06
+"GO:0034660","ncRNA metabolic process",414,30,9.97,"8.0e-08",1.11766666666667e-05
+"GO:0009059","macromolecule biosynthetic process",3282,122,79.08,"8.5e-08",1.14002e-05
+"GO:0034645","cellular macromolecule biosynthetic proc...",3158,118,76.09,"1.2e-07",1.54753846153846e-05
+"GO:0070925","organelle assembly",273,21,6.58,"3.0e-06",0.000372555555555556
+"GO:0006807","nitrogen compound metabolic process",7900,232,190.34,"3.2e-06",0.0003832
+"GO:0006334","nucleosome assembly",43,8,1.04,"7.3e-06",0.000844031034482759
+"GO:0043170","macromolecule metabolic process",7325,216,176.49,"1.1e-05",0.00122943333333333
+"GO:0044085","cellular component biogenesis",1625,66,39.15,"1.3e-05",0.00140609677419355
+"GO:0000469","cleavage involved in rRNA processing",27,6,0.65,"3.6e-05",0.003772125
+"GO:0000027","ribosomal large subunit assembly",55,8,1.33,"4.8e-05",0.00487709090909091
+"GO:0031118","rRNA pseudouridine synthesis",10,4,0.24,"6.2e-05",0.00611429411764706
+"GO:0034622","cellular protein-containing complex asse...",641,32,15.44,"8.0e-05",0.00763738888888889
+"GO:1901576","organic substance biosynthetic process",4740,148,114.21,"8.2e-05",0.00763738888888889
+"GO:0000447","endonucleolytic cleavage in ITS1 to sepa...",11,4,0.27,"9.6e-05",0.00864721052631579
+"GO:0044249","cellular biosynthetic process",4599,144,110.81,"9.8e-05",0.00864721052631579
+"GO:0090501","RNA phosphodiester bond hydrolysis",136,12,3.28,"0.00011",0.00945717948717949
+"GO:0000028","ribosomal small subunit assembly",33,6,0.8,"0.00012",0.010059
+"GO:0019538","protein metabolic process",3699,119,89.12,"0.00020",0.0163560975609756
+"GO:0044267","cellular protein metabolic process",3402,111,81.97,"0.00021",0.016765
+"GO:0034728","nucleosome organization",70,8,1.69,"0.00027",0.0210537209302326
+"GO:0000154","rRNA modification",39,6,0.94,"0.00031",0.0236234090909091
+"GO:0009058","biosynthetic process",4984,151,120.08,"0.00032",0.0238435555555556
+"GO:0001522","pseudouridine synthesis",15,4,0.36,"0.00037",0.0269697826086957

@@ -1,0 +1,28 @@
+"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
+"GO:0007017","microtubule-based process",251,45,12.92,"1.5e-13",5.0295e-10
+"GO:0007018","microtubule-based movement",108,23,5.56,"4.8e-09",8.0472e-06
+"GO:0000226","microtubule cytoskeleton organization",172,29,8.86,"1.4e-08",1.56473333333333e-05
+"GO:0031122","cytoplasmic microtubule organization",62,16,3.19,"6.1e-08",5.113325e-05
+"GO:0043622","cortical microtubule organization",45,13,2.32,"2.5e-07",0.00016765
+"GO:0007010","cytoskeleton organization",421,47,21.67,"4.6e-07",0.000257063333333333
+"GO:0042546","cell wall biogenesis",238,32,12.25,"6.1e-07",0.00029219
+"GO:0030865","cortical cytoskeleton organization",68,15,3.5,"1.4e-06",0.000558833333333333
+"GO:0009834","plant-type secondary cell wall biogenesi...",77,16,3.96,"1.5e-06",0.000558833333333333
+"GO:0097435","supramolecular fiber organization",251,32,12.92,"2.0e-06",0.0006706
+"GO:0071554","cell wall organization or biogenesis",509,51,26.2,"3.9e-06",0.00118879090909091
+"GO:0007052","mitotic spindle organization",49,12,2.52,"5.0e-06",0.00139708333333333
+"GO:0006928","movement of cell or subcellular componen...",228,29,11.74,"6.2e-06",0.00159912307692308
+"GO:1902850","microtubule cytoskeleton organization in...",51,12,2.63,"7.9e-06",0.00189205
+"GO:0009832","plant-type cell wall biogenesis",190,25,9.78,"1.5e-05",0.003353
+"GO:1902600","proton transmembrane transport",143,20,7.36,"4.4e-05",0.00922075
+"GO:0071669","plant-type cell wall organization or bio...",334,35,17.2,"5.2e-05",0.0102562352941176
+"GO:0009833","plant-type primary cell wall biogenesis",22,7,1.13,"8.1e-05",0.0150885
+"GO:0006811","ion transport",1040,81,53.54,"0.00011",0.0194121052631579
+"GO:0051493","regulation of cytoskeleton organization",143,19,7.36,"0.00014",0.023471
+"GO:0007051","spindle organization",69,12,3.55,"0.00019",0.0303366666666667
+"GO:0006812","cation transport",613,52,31.56,"0.00027",0.0391183333333333
+"GO:0010065","primary meristem tissue development",19,6,0.98,"0.00028",0.0391183333333333
+"GO:0070507","regulation of microtubule cytoskeleton o...",19,6,0.98,"0.00028",0.0391183333333333
+"GO:0032886","regulation of microtubule-based process",27,7,1.39,"0.00033",0.0442596
+"GO:1902903","regulation of supramolecular fiber organ...",118,16,6.07,"0.00035",0.0447066666666667
+"GO:0016051","carbohydrate biosynthetic process",271,28,13.95,"0.00036",0.0447066666666667
