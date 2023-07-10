@@ -1,8 +1,0 @@
-"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
-"GO:0007018","microtubule-based movement",108,18,4.05,"9.8e-08",0.000329378
-"GO:0043622","cortical microtubule organization",45,10,1.69,"4.9e-06",0.005293575
-"GO:0009834","plant-type secondary cell wall biogenesi...",77,13,2.89,"5.1e-06",0.005293575
-"GO:0010067","procambium histogenesis",14,6,0.52,"6.3e-06",0.005293575
-"GO:0009833","plant-type primary cell wall biogenesis",22,7,0.82,"1.0e-05",0.006722
-"GO:0010417","glucuronoxylan biosynthetic process",16,6,0.6,"1.6e-05",0.00896266666666667
-"GO:0030244","cellulose biosynthetic process",38,8,1.42,"6.7e-05",0.0321695714285714

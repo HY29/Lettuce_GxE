@@ -1,7 +1,0 @@
-"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
-"GO:0010200","response to chitin",195,32,5.35,"2.7e-16",9.0747e-13
-"GO:0009768","photosynthesis, light harvesting in phot...",26,13,0.71,"3.1e-14",5.20955e-11
-"GO:0009611","response to wounding",419,31,11.5,"5.6e-07",0.000627386666666667
-"GO:0006783","heme biosynthetic process",16,5,0.44,"5.2e-05",0.043693
-"GO:0009864","induced systemic resistance, jasmonic ac...",27,6,0.74,"7.5e-05",0.0442531666666667
-"GO:0051865","protein autoubiquitination",52,8,1.43,"7.9e-05",0.0442531666666667

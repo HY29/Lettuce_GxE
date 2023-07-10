@@ -1,7 +1,0 @@
-"GO.ID","Term","Annotated","Significant","Expected","Pvalue","Adj.Pvalue"
-"GO:0010218","response to far red light",78,12,2.24,"2.1e-06",0.0070581
-"GO:0010224","response to UV-B",79,11,2.27,"1.5e-05",0.020166
-"GO:0009658","chloroplast organization",184,17,5.28,"2.3e-05",0.020166
-"GO:0055114","oxidation-reduction process",1348,68,38.68,"2.4e-05",0.020166
-"GO:0006551","leucine metabolic process",14,5,0.4,"3.1e-05",0.0208382
-"GO:0009269","response to desiccation",16,5,0.46,"6.4e-05",0.0358506666666667
